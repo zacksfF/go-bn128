@@ -1,0 +1,23 @@
+.env
+
+.Todo
+
+.DS_Store
+
+.vscode/
+.idea/
+node_modules/
+dist/
+build/
+out/
+coverage/
+*.log
+*.tmp
+*.bak
+*.swp
+*.exe
+
+# Go specific ignores
+bin/
+*.exe
+*.exe~
