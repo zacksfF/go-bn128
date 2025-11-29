@@ -21,3 +21,5 @@ coverage/
 bin/
 *.exe
 *.exe~
+
+.plan/
